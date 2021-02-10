@@ -1,0 +1,8 @@
+https://www.statsmodels.org/stable/index.html
+
+
+
+https://www.master-data-scientist.com/scikit-learn-data-science/
+
+
+https://www.codigofuente.org/analisis-estadistico-python-statsmodels/
